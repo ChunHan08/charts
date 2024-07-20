@@ -1,0 +1,20 @@
+div {
+  display: flex;
+  justify-content: center;
+}
+button {
+  background-color: cyan;
+  border: 2px solid red;
+  border-radius: 5px;
+  padding: 7px 16px;
+  margin: 0 2px 0 0;
+  color: black;
+  cursor: pointer;
+}
+input{
+  background-color:  white;
+  border: 2px solid red;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 0 2px 0 0;
+}
